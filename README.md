@@ -1,7 +1,7 @@
 ## Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-My submission for term 1 project 1, see [P1.ipynb](https://github.com/shunjilin/UdacityCarNDTrafficSignClassifier/blob/master/Traffic_Sign_Classifier.ipynb) for implementation and [writeup.md](https://github.com/shunjilin/UdacityCarNDTrafficSignClassifier/blob/master/writeup.md) for details.
+My submission for term 1 project 2, see [Traffic_Sign_Classifier.ipynb](https://github.com/shunjilin/UdacityCarNDTrafficSignClassifier/blob/master/Traffic_Sign_Classifier.ipynb) for implementation and [writeup.md](https://github.com/shunjilin/UdacityCarNDTrafficSignClassifier/blob/master/writeup.md) for details.
 
 <img src="writeup_images/image1.png" width="480" alt="Combined Image" />
 
