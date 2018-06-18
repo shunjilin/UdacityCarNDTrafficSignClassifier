@@ -3,7 +3,7 @@
 
 My submission for term 1 project 1, see [P1.ipynb](https://github.com/shunjilin/UdacityCarNDTrafficSignClassifier/blob/master/Traffic_Sign_Classifier.ipynb) for implementation and [writeup.md](https://github.com/shunjilin/UdacityCarNDTrafficSignClassifier/blob/master/writeup.md) for details.
 
-<img src="writeup_images/image1" width="480" alt="Combined Image" />
+<img src="writeup_images/image1.png" width="480" alt="Combined Image" />
 
 Overview
 ---
