@@ -19,11 +19,11 @@ The goals / steps of this project are the following:
 
 [image1]: ./writeup_images/image1.png "Sample training images"
 [image2]: ./writeup_images/image2.png "Barplot of training images"
-[image4]: ./writeup_images/image3.png "Rotation"
-[image5]: ./writeup_images/image4.png "Swirl"
-[image6]: ./writeup_images/image5.png "Grayscale"
-[image7]: ./writeup_images/image6.png "Normalization"
-[image8]: ./writeup_images/image7.png "Preprocessed sample training images"
+[image3]: ./writeup_images/image3.png "Rotation"
+[image4]: ./writeup_images/image4.png "Swirl"
+[image5]: ./writeup_images/image5.png "Grayscale"
+[image6]: ./writeup_images/image6.png "Normalization"
+[image7]: ./writeup_images/image7.png "Preprocessed sample training images"
 [image8]: ./writeup_images/image8.png "Barplot preprocessed"
 [image9]: ./writeup_images/image9.png "Traffic Signs"
 
