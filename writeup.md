@@ -77,14 +77,21 @@ Each augmented data is taken randomly from the original class, and distorted wit
 ![alt text][image4]
 
 I performed preprocessing of all data in the training, validation and test set, which includes:
+
 1. Grayscale conversion
+
 ![alt text][image5]
+
 Grayscale to compress the dataset
+
 2. Normalization
+
 ![alt text][image6]
+
 Normalization for better training efficiency, and also to balance the level of contrast/brightness in the dataset.
 
 Sample plot of random images from each class after augmentation / preprocessing (training set):
+
 ![alt text][image7]
 
 Bar plot of class distribution after augmentation / preprocessing (training set):
