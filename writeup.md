@@ -19,17 +19,13 @@ The goals / steps of this project are the following:
 
 [image1]: ./writeup_images/image1.png "Sample training images"
 [image2]: ./writeup_images/image2.png "Barplot of training images"
-[image3]: ./writeup_images/image3.png "Random Noise"
-[image4]: ./writeup_images/image4.png "Rotation"
-[image5]: ./writeup_images/image5.png "Swirl"
-[image6]: ./writeup_images/image6.png "Grayscale"
-[image7]: ./writeup_images/image7.png "Normalization"
-
-[image8]: ./downloaded_images/gts1.jpg "Traffic Sign 1"
-[image9]: ./downloaded_images/gts2.jpeg "Traffic Sign 2"
-[image10]: ./downloaded_images/gts3.jpeg "Traffic Sign 3"
-[image11]: ./downloaded_images/gts4.jpeg "Traffic Sign 4"
-[image12]: ./downloaded_images/gts5.jpg "Traffic Sign 5"
+[image4]: ./writeup_images/image3.png "Rotation"
+[image5]: ./writeup_images/image4.png "Swirl"
+[image6]: ./writeup_images/image5.png "Grayscale"
+[image7]: ./writeup_images/image6.png "Normalization"
+[image8]: ./writeup_images/image7.png "Preprocessed sample training images"
+[image8]: ./writeup_images/image8.png "Barplot preprocessed"
+[image9]: ./writeup_images/image9.png "Traffic Signs"
 
 
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -107,6 +103,8 @@ Sample plot of random images from each class after augmentation / preprocessing 
 
 Bar plot of class distribution after augmentation / preprocessing (training set):
 
+![alt text][image8]
+
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
 
 The final model consisted of the following layers:
@@ -165,10 +163,9 @@ If a well known architecture was chosen:
 
 #### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
-Here are five German traffic signs that I found on the web:
+Here are five German traffic signs that I found on the web (after resizing):
 
-![alt text][image8] ![alt text][image9] ![alt text][image10] 
-![alt text][image11] ![alt text][image12]
+![alt text][image9]
 
 The first image might be difficult to classify because ...
 
