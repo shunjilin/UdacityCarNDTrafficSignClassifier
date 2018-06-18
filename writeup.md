@@ -173,8 +173,7 @@ The first image might be difficult to classify because ...
 
 Here are the results of the prediction:
 
-'Bicycles crossing', 'Road work', 'Roundabout mandatory', 'Pedestrians', 'Right-of-way at the next intersection'
-| Image			        |     Prediction	        					| 
+| Image			|     Prediction				| 
 |:---------------------:|:---------------------------------------------:| 
 | Bicycles crossing    					| Stop sign	| 
 | Road work     					| U-turn	|
