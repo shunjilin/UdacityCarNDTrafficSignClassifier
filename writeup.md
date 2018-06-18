@@ -19,12 +19,12 @@ The goals / steps of this project are the following:
 
 [image1]: ./writeup_images/image1.png "Sample training images"
 [image2]: ./writeup_images/image2.png "Barplot of training images"
-[image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image3]: ./writeup_images/image3.png "Random Noise"
+[image4]: ./writeup_images/image4.png "Rotation"
+[image5]: ./writeup_images/image5.png "Swirl"
+[image6]: ./writeup_images/image6.png "Grayscale"
+[image7]: ./writeup_images/image7.png "Normalization"
+[image8]: ./writeup_images/image8.png "Traffic Sign 5"
 
 
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
